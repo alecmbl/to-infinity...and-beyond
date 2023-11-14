@@ -12,5 +12,5 @@ Determination and construction of periodic halo orbits in the Earth-Moon system
 Exercise II: asteroid impacting mission
 Multiple shooting guidance to impact Apophis in a planetary protection environment
 
-Assignment III: time-optimal transfer 
+Exercise III: time-optimal transfer 
 Developing a time-optimal Earth-Venus transfer exploiting continuous electric thrust

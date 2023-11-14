@@ -3,9 +3,6 @@
 % Exercise:       2 - Impulsive Guidance
 % Author:         Alessandro Cambielli
 
-% ID number:      10619322
-%                 102615
-
 %% REQUEST 1
 
 % Clear memory workspace and set path
@@ -415,20 +412,7 @@ function [dxdt] = keplerian_rhs(~, x, GM)
 %
 % Author
 %   Name: ALESSANDRO 
-%   Surname: MORSELLI
-%   Research group: DART
-%   Department: DAER
-%   University: Politecnico di Milano 
-%   Creation: 24/10/2021
-%   Contact: alessandro.morselli@polimi.it
-%   Copyright: (c) 2021 A. Morselli, Politecnico di Milano. 
-%                  All rights reserved.
-%
-%
-% Notes:
-%   This material was prepared to support the course 'Satellite Guidance
-%   and Navigation', AY 2021/2022.
-%
+%   Surname: CAMBIELLI
 %
 % Inputs:
 %   t   : [ 1, 1] epoch (unused)

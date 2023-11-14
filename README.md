@@ -1,6 +1,8 @@
 # to-infinity...and-beyond
 Repository for the Guidance and Navigation academic course (2023)
 
+WARNING: SPICE toolkit is required to run!!
+
 Spacecraft Guidance and Navigation
 
 Assignment I: Guidance
